@@ -1,5 +1,9 @@
 import React from 'react';
 
 export default function MessageList() {
-  return <div>Message List</div>
+  return (
+    <>
+      <h4>Message List</h4>
+    </>
+  );
 }
