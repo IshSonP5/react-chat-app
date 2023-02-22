@@ -1,12 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
 import React from 'react';
+import TopicForm from './Components/TopicForm/TopicForm';
+import MessageList from './Components/MessageList/MessageList';
+import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <p>
           Chat App
         </p>
@@ -19,6 +19,11 @@ function App() {
           Learn React
         </a>
       </header>
+      <main>
+        <TopicForm />
+        <MessageList />
+      </main>
+      <footer>Footer</footer>
     </div>
   );
 }
