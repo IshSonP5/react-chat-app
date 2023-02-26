@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/IshSonP5/react-chat-app/static/css/main.a1b2ff30.css",
-    "main.js": "/IshSonP5/react-chat-app/static/js/main.81dc68ca.js",
+    "main.css": "/IshSonP5/react-chat-app/static/css/main.0b5244af.css",
+    "main.js": "/IshSonP5/react-chat-app/static/js/main.61dc7e6a.js",
+    "static/media/ThumbsUpEmpty.svg": "/IshSonP5/react-chat-app/static/media/ThumbsUpEmpty.cd80060328174dc8dbdbfb7eef2b1f0b.svg",
+    "static/media/ThumbsUpFull.svg": "/IshSonP5/react-chat-app/static/media/ThumbsUpFull.4181f45f617c6906de61e9e1990bc5f6.svg",
     "index.html": "/IshSonP5/react-chat-app/index.html",
-    "main.a1b2ff30.css.map": "/IshSonP5/react-chat-app/static/css/main.a1b2ff30.css.map",
-    "main.81dc68ca.js.map": "/IshSonP5/react-chat-app/static/js/main.81dc68ca.js.map"
+    "main.0b5244af.css.map": "/IshSonP5/react-chat-app/static/css/main.0b5244af.css.map",
+    "main.61dc7e6a.js.map": "/IshSonP5/react-chat-app/static/js/main.61dc7e6a.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1b2ff30.css",
-    "static/js/main.81dc68ca.js"
+    "static/css/main.0b5244af.css",
+    "static/js/main.61dc7e6a.js"
   ]
 }
