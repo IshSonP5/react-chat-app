@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/IshSonP5/react-chat-app/static/css/main.cd0491bd.css",
-    "main.js": "/IshSonP5/react-chat-app/static/js/main.ad446f4c.js",
+    "main.css": "/IshSonP5/react-chat-app/static/css/main.a1b2ff30.css",
+    "main.js": "/IshSonP5/react-chat-app/static/js/main.81dc68ca.js",
     "index.html": "/IshSonP5/react-chat-app/index.html",
-    "main.cd0491bd.css.map": "/IshSonP5/react-chat-app/static/css/main.cd0491bd.css.map",
-    "main.ad446f4c.js.map": "/IshSonP5/react-chat-app/static/js/main.ad446f4c.js.map"
+    "main.a1b2ff30.css.map": "/IshSonP5/react-chat-app/static/css/main.a1b2ff30.css.map",
+    "main.81dc68ca.js.map": "/IshSonP5/react-chat-app/static/js/main.81dc68ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd0491bd.css",
-    "static/js/main.ad446f4c.js"
+    "static/css/main.a1b2ff30.css",
+    "static/js/main.81dc68ca.js"
   ]
 }
