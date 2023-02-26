@@ -1,6 +1,7 @@
 import React from 'react';
 import TopicForm from './Components/TopicForm/TopicForm';
 import MessageList from './Components/MessageList/MessageList';
+import Footer from './Components/Footer/Footer';
 import './App.css';
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
         <TopicForm />
         <MessageList />
       </main>
-      <footer>Footer</footer>
+      <Footer />
     </div>
   );
 }
