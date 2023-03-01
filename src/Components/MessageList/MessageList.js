@@ -1,5 +1,4 @@
 import React from 'react';
-import './MessageList.css';
 import MessageItem from './MessageItem/MessageItem';
 
 

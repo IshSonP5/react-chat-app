@@ -1,7 +1,7 @@
 {
   "name": "chat-app",
   "version": "0.1.0",
-  "homepage": "https://github.com/IshSonP5/react-chat-app",
+  "homepage": "https://IshSonP5.github.io/react-chat-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
